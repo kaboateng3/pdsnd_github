@@ -1,7 +1,7 @@
 
 ### Date created
 This project was created on 5th November,2021
-
+and modified to suit project requirement
 ### Project 2 (Bikeshare)
 
 
@@ -13,4 +13,4 @@ This program was written in Python (version 3.6.8) and relies on the following l
 
 pandas==0.23.4 numpy==1.15.4 Click==7.0
 
-
+This program was written in Python (version 3.6.8) and relies on the following libraries:
